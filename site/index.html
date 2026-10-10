@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore the Meshtastic community resource index. Find guides, software, hardware projects and local groups by category, platform and country.">
+  <title>Meshtastic Master Redux · Resource directory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#directory">Skip to directory</a>
+<header class="site-header wrap">
+  <a class="brand" href="#" aria-label="Meshtastic Master Redux home">
+    <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M9 10L30 7L33 29L12 33Z M9 10L33 29 M30 7L12 33"/><circle cx="9" cy="10" r="4"/><circle cx="30" cy="7" r="4"/><circle cx="33" cy="29" r="4"/><circle cx="12" cy="33" r="4"/></svg>
+    <span>MASTER REDUX<small>A Meshtastic community index</small></span>
+  </a>
+  <nav aria-label="Main navigation"><a href="#directory">Directory</a><a href="#guides">Guides</a><a href="https://github.com/charlottemeshtastic/Meshtastic-Master-Redux" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a></nav>
+</header>
+<main>
+<section class="hero wrap">
+  <div class="hero-copy"><p class="eyebrow"><span class="dot"></span> COMMUNITY KNOWLEDGE, CONNECTED</p><h1>Find your next<br><em>connection.</em></h1><p class="intro">One place for the tools, guides and people that help you build a better mesh.</p><a class="primary" href="#directory">Explore the directory <span aria-hidden="true">↓</span></a><p class="credit">Curated by charlottemeshtastic. Built on community contributions.</p></div>
+  <div class="hero-art" aria-hidden="true"><svg viewBox="0 0 430 320"><g class="orbit"><ellipse cx="210" cy="158" rx="178" ry="116"/><ellipse cx="210" cy="158" rx="113" ry="174" transform="rotate(45 210 158)"/></g><g class="mesh-lines"><path d="M72 180L154 66L300 84L353 232L210 267Z M72 180L300 84 M154 66L210 267 M154 66L353 232 M72 180L353 232"/></g><g class="mesh-dots"><circle cx="72" cy="180" r="12"/><circle cx="154" cy="66" r="12"/><circle cx="300" cy="84" r="12"/><circle cx="353" cy="232" r="12"/><circle cx="210" cy="267" r="12"/></g><circle cx="211" cy="162" r="37" class="center-node"/><path d="M190 160a23 23 0 0142 0 M198 165a15 15 0 0126 0" class="signal"/><circle cx="211" cy="173" r="4" fill="#f2ebd8"/></svg><div class="art-label"><span class="dot"></span> MANY NODES. ONE COMMUNITY.</div></div>
+</section>
+<section class="wrap guide-strip" id="guides" aria-labelledby="guide-title">
+  <div class="section-heading"><p class="eyebrow">A GOOD PLACE TO BEGIN</p><h2 id="guide-title">A path for every project.</h2></div>
+  <div class="guide-grid">
+    <a class="guide" href="@@REPO@@/docs/START_HERE.md"><span>01 / FIRST STEPS</span><h3>Send your first message <b aria-hidden="true">↗</b></h3><p>Choose a board, flash it, connect and test.</p></a>
+    <a class="guide" href="@@REPO@@/docs/TROUBLESHOOTING.md"><span>02 / GET UNSTUCK</span><h3>Configure & troubleshoot <b aria-hidden="true">↗</b></h3><p>Find the right reference for your symptom.</p></a>
+    <a class="guide" href="@@REPO@@/docs/DEPLOYMENT.md"><span>03 / BUILD OUT</span><h3>Plan a deployment <b aria-hidden="true">↗</b></h3><p>Antennas, solar power and field tests.</p></a>
+    <a class="guide" href="@@REPO@@/docs/LINUX.md"><span>04 / GO FURTHER</span><h3>Linux & Raspberry Pi <b aria-hidden="true">↗</b></h3><p>Explore meshtasticd and mPWRD-OS.</p></a>
+  </div>
+</section>
+<section class="wrap directory" id="directory" aria-labelledby="directory-title">
+  <div class="directory-heading"><div><p class="eyebrow">THE RESOURCE LIBRARY</p><h2 id="directory-title">Explore the mesh.</h2></div><span class="total-pill">@@COUNT@@ curated entries</span></div>
+  <form id="filters" class="filters" role="search">
+    <label class="search-label">Search the directory<input type="search" id="search" placeholder="Try antennas, Linux, or Charlotte…" autocomplete="off"></label>
+    <label>Category<select id="category"><option value="">All categories</option></select></label>
+    <label>Platform<select id="platform"><option value="">All platforms</option></select></label>
+    <label>Country<select id="country"><option value="">All countries</option></select></label>
+  </form>
+  <div class="directory-controls"><div class="view-buttons" aria-label="Directory collection"><button type="button" data-view="resources" aria-pressed="true">Resources</button><button type="button" data-view="communities" aria-pressed="false">Communities</button><button type="button" data-view="all" aria-pressed="false">Everything</button></div><div class="secondary-controls"><button type="button" id="clear">Reset filters</button><button type="button" id="share">Copy this view</button></div></div>
+  <p id="result-count" class="result-count" role="status" aria-live="polite"></p>
+  <div id="results" class="resource-grid"></div>
+  <div id="empty" class="empty" hidden><h3>No matches just yet.</h3><p>Try a broader search or reset the filters.</p><button type="button" id="empty-reset">Reset filters</button></div>
+  <nav class="pagination" aria-label="Result pages"><button type="button" id="previous">← Previous</button><span id="page-label"></span><button type="button" id="next">Next →</button></nav>
+  <noscript><p>This filtered view needs JavaScript. Browse the complete <a href="https://github.com/charlottemeshtastic/Meshtastic-Master-Redux">Markdown index on GitHub</a>.</p></noscript>
+  <p class="directory-note">Platform tags appear only where a source documents support. “Listed” means included in the index, not independently tested. Public social pages do not confirm active group membership or working invites.</p>
+</section>
+</main>
+<footer class="wrap footer"><div><strong>Better meshes start with shared knowledge.</strong><p><a href="@@REPO@@/CONTRIBUTING.md">Suggest a resource</a> · <a href="@@REPO@@/ATTRIBUTION.md">Attribution & CC0</a> · <a href="@@REPO@@/audit/REPORT.md">Original audit</a></p></div><p>Meshtastic® is a registered trademark of Meshtastic LLC. This community index is not affiliated with, endorsed, or sponsored by Meshtastic LLC.</p></footer>
+<script id="resource-data" type="application/json">@@DATA@@</script>
+<script src="filters.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

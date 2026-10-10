@@ -1,0 +1,20 @@
+[
+  {"url":"https://play.google.com/store/apps/details?id=com.geeksville.mesh","platforms":["Android"],"source":"https://meshtastic.org/docs/software/"},
+  {"url":"https://f-droid.org/packages/com.geeksville.mesh/","platforms":["Android"],"source":"https://meshtastic.org/docs/software/"},
+  {"url":"https://github.com/meshtastic/Meshtastic-Android/releases/latest","platforms":["Android"],"source":"https://github.com/meshtastic/Meshtastic-Android"},
+  {"url":"https://apps.apple.com/us/app/meshtastic/id1586432531","platforms":["Apple","macOS"],"source":"https://meshtastic.org/docs/software/"},
+  {"url":"https://github.com/meshtastic/Meshtastic-Apple","platforms":["Apple","macOS"],"source":"https://github.com/meshtastic/Meshtastic-Apple"},
+  {"url":"https://github.com/meshtastic/Meshtastic-Android","platforms":["Android"],"source":"https://github.com/meshtastic/Meshtastic-Android"},
+  {"url":"https://client.meshtastic.org/","platforms":["Web"],"source":"https://meshtastic.org/docs/software/"},
+  {"url":"https://flasher.meshtastic.org/","platforms":["Web"],"source":"https://meshtastic.org/downloads/"},
+  {"url":"https://meshtastic.org/docs/meshtasticd/","platforms":["Linux","macOS"],"source":"https://meshtastic.org/docs/meshtasticd/"},
+  {"url":"https://meshtastic.org/docs/software/mpwrd-os/","platforms":["Linux"],"source":"https://meshtastic.org/docs/software/mpwrd-os/"},
+  {"url":"https://meshtastic.org/docs/software/python/cli/","platforms":["Python"],"source":"https://meshtastic.org/docs/software/python/cli/"},
+  {"url":"https://github.com/meshtastic/python","platforms":["Python"],"source":"https://github.com/meshtastic/python"},
+  {"url":"https://affirmatech.com/meshsense","platforms":["Windows","macOS","Linux"],"source":"https://affirmatech.com/meshsense"},
+  {"url":"https://github.com/pdxlocations/connect","platforms":["Python"],"source":"https://github.com/pdxlocations/connect"},
+  {"url":"https://github.com/pdxlocations/contact","platforms":["Python"],"source":"https://github.com/pdxlocations/contact"},
+  {"url":"https://play.google.com/store/apps/details?id=com.specfive.meshtactoe","platforms":["Android"],"source":"https://play.google.com/store/apps/details?id=com.specfive.meshtactoe"},
+  {"url":"https://play.google.com/store/apps/details?id=com.specfive.checkers","platforms":["Android"],"source":"https://play.google.com/store/apps/details?id=com.specfive.checkers"},
+  {"url":"https://play.google.com/store/apps/details?id=com.specfive.chess","platforms":["Android"],"source":"https://play.google.com/store/apps/details?id=com.specfive.chess"}
+]
