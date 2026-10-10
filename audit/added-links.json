@@ -1,0 +1,232 @@
+[
+  {
+    "url": "https://example.org/",
+    "result": "200 https://example.org/",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/Darachnid/Boston-Meshnet",
+    "result": "200 https://github.com/Darachnid/Boston-Meshnet",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/ShakataGaNai/awesome-meshtastic",
+    "result": "200 https://github.com/ShakataGaNai/awesome-meshtastic",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/SignalGap/awesome-meshtastic",
+    "result": "200 https://github.com/SignalGap/awesome-meshtastic",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/bmswens/Meshtastic-Web-API",
+    "result": "200 https://github.com/bmswens/Meshtastic-Web-API",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/charlottemeshtastic/Meshtastic-Master-Redux/pulls",
+    "result": "200 https://github.com/charlottemeshtastic/Meshtastic-Master-Redux/pulls",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/charlottemeshtastic/awesome-meshtastic",
+    "result": "200 https://github.com/charlottemeshtastic/awesome-meshtastic",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/charlottemeshtastic/awesome-meshtastic/tree/12a8eb77936585116146cec526315201ebd237a6",
+    "result": "200 https://github.com/charlottemeshtastic/awesome-meshtastic/tree/12a8eb77936585116146cec526315201ebd237a6",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/charlottemeshtastic/awesome-meshtastic2",
+    "result": "200 https://github.com/charlottemeshtastic/awesome-meshtastic2",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/charlottemeshtastic/awesome-meshtastic2/tree/69d99e5df95846571cf9430c1ad595abb5930c8b",
+    "result": "200 https://github.com/charlottemeshtastic/awesome-meshtastic2/tree/69d99e5df95846571cf9430c1ad595abb5930c8b",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/cordelster/mesh-metrics",
+    "result": "200 https://github.com/cordelster/mesh-metrics",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/danpeig/node-red-meshtastic-msg",
+    "result": "200 https://github.com/danpeig/node-red-meshtastic-msg",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/flmesh",
+    "result": "200 https://github.com/flmesh",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic-ua",
+    "result": "200 https://github.com/meshtastic-ua",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/ETHClass2",
+    "result": "200 https://github.com/meshtastic/ETHClass2",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/Meshtastic-Android",
+    "result": "200 https://github.com/meshtastic/Meshtastic-Android",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/Meshtastic-Android/releases/latest",
+    "result": "200 https://github.com/meshtastic/Meshtastic-Android/releases/tag/v2.8.2",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/Meshtastic-Apple",
+    "result": "200 https://github.com/meshtastic/Meshtastic-Apple",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/Meshtastic-arduino",
+    "result": "200 https://github.com/meshtastic/Meshtastic-arduino",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/RadioHead",
+    "result": "200 https://github.com/meshtastic/RadioHead",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/api",
+    "result": "200 https://github.com/meshtastic/api",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/c-sharp",
+    "result": "200 https://github.com/meshtastic/c-sharp",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/enclosures",
+    "result": "200 https://github.com/meshtastic/enclosures",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/firmware-ota",
+    "result": "200 https://github.com/meshtastic/firmware-ota",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/firmware-ota-wifi",
+    "result": "200 https://github.com/meshtastic/firmware-ota-wifi",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/home-assistant",
+    "result": "200 https://github.com/meshtastic/home-assistant",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/i2c-sensor",
+    "result": "200 https://github.com/meshtastic/i2c-sensor",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/meshTestic",
+    "result": "200 https://github.com/meshtastic/meshTestic",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/meshtastic",
+    "result": "200 https://github.com/meshtastic/meshtastic",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/meshtastic-site-planner",
+    "result": "200 https://github.com/meshtastic/meshtastic-site-planner",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/meshtasticator",
+    "result": "200 https://github.com/meshtastic/meshtasticator",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/mqtt",
+    "result": "200 https://github.com/meshtastic/mqtt",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/network-management-client",
+    "result": "200 https://github.com/meshtastic/network-management-client",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/node-red-contrib-meshtastic",
+    "result": "200 https://github.com/meshtastic/node-red-contrib-meshtastic",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/nrf52_factory_erase",
+    "result": "200 https://github.com/meshtastic/nrf52_factory_erase",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/protobufs",
+    "result": "200 https://github.com/meshtastic/protobufs",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/python",
+    "result": "200 https://github.com/meshtastic/python",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/rust",
+    "result": "200 https://github.com/meshtastic/rust",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/web",
+    "result": "200 https://github.com/meshtastic/web",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/meshtastic/web-flasher",
+    "result": "200 https://github.com/meshtastic/web-flasher",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/orgs/meshtastic/discussions",
+    "result": "200 https://github.com/orgs/meshtastic/discussions",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/orgs/meshtastic/discussions/10",
+    "result": "200 https://github.com/orgs/meshtastic/discussions/10",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/orgs/meshtastic/discussions/7",
+    "result": "200 https://github.com/orgs/meshtastic/discussions/7",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/pdxlocations/connect",
+    "result": "200 https://github.com/pdxlocations/connect",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/pdxlocations/contact",
+    "result": "200 https://github.com/pdxlocations/contact",
+    "error": ""
+  },
+  {
+    "url": "https://meshtastic.org/docs/software/web-client/",
+    "result": "200 https://meshtastic.org/docs/software/web-client/",
+    "error": ""
+  }
+]

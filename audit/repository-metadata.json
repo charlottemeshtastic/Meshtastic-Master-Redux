@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "meshtastic/ETHClass2",
+    "full_name": "meshtastic/ETHClass2",
+    "archived": false,
+    "description": "Providing ETHClass2 from https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-Series/, originally by Lewis He",
+    "license": null,
+    "message": null
+  },
+  {
+    "repo": "meshtastic/Meshtastic-Android",
+    "full_name": "meshtastic/Meshtastic-Android",
+    "archived": false,
+    "description": "Android application for Meshtastic",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/Meshtastic-Apple",
+    "full_name": "meshtastic/Meshtastic-Apple",
+    "archived": false,
+    "description": "Apple iOS, iPadOS, macOS, watchOS and visionOS Clients For Meshtastic",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/Meshtastic-arduino",
+    "full_name": "meshtastic/Meshtastic-arduino",
+    "archived": false,
+    "description": "Driver for interfacing with Meshtastic nodes over WiFi and Serial connections.",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/RadioHead",
+    "full_name": "meshtastic/RadioHead",
+    "archived": false,
+    "description": "a gited version of RadioHead 1.98 (with custom fixes)",
+    "license": "NOASSERTION",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/antenna-reports",
+    "full_name": "meshtastic/antenna-reports",
+    "archived": false,
+    "description": "Community-contributed antenna testing reports and evaluations for Meshtastic devices.",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/api",
+    "full_name": "meshtastic/api",
+    "archived": false,
+    "description": "Meshtastic Website API",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/c-sharp",
+    "full_name": "meshtastic/c-sharp",
+    "archived": false,
+    "description": "C# / .NET based command line interface and library for Meshtastic",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/enclosures",
+    "full_name": "meshtastic/enclosures",
+    "archived": false,
+    "description": "Enclosures for Meshtastic devices",
+    "license": null,
+    "message": null
+  },
+  {
+    "repo": "meshtastic/firmware",
+    "full_name": "meshtastic/firmware",
+    "archived": false,
+    "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/firmware-ota",
+    "full_name": "meshtastic/firmware-ota",
+    "archived": false,
+    "description": "BLE-OTA Mini firmware ",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/firmware-ota-wifi",
+    "full_name": "meshtastic/firmware-ota-wifi",
+    "archived": false,
+    "description": "WiFi OTA Firmware",
+    "license": "MIT",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/home-assistant",
+    "full_name": "meshtastic/home-assistant",
+    "archived": false,
+    "description": "Home Assistant Integration for Meshtastic",
+    "license": null,
+    "message": null
+  },
+  {
+    "repo": "meshtastic/i2c-sensor",
+    "full_name": "meshtastic/i2c-sensor",
+    "archived": false,
+    "description": "Arduino boilerplate for defining your own custom I2C sensor for use with Meshtastic ",
+    "license": "MIT",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/meshTestic",
+    "full_name": "meshtastic/meshTestic",
+    "archived": false,
+    "description": "Meshtastic device end to end test suite",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/meshtastic",
+    "full_name": "meshtastic/meshtastic",
+    "archived": false,
+    "description": "Meshtastic project website and documentation",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/meshtastic-site-planner",
+    "full_name": "meshtastic/meshtastic-site-planner",
+    "archived": false,
+    "description": "A Meshtastic Site Planner built around a containerized API running the SPLAT! RF analysis software",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/meshtasticator",
+    "full_name": "meshtastic/Meshtasticator",
+    "archived": false,
+    "description": "Discrete-event and interactive simulator for Meshtastic.",
+    "license": null,
+    "message": null
+  },
+  {
+    "repo": "meshtastic/mqtt",
+    "full_name": "meshtastic/mqtt",
+    "archived": false,
+    "description": "A meshtastic native packet aware MQTT broker boilerplate",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/network-management-client",
+    "full_name": "meshtastic/network-management-client",
+    "archived": false,
+    "description": "A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/node-red-contrib-meshtastic",
+    "full_name": "meshtastic/node-red-contrib-meshtastic",
+    "archived": false,
+    "description": null,
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/nrf52_factory_erase",
+    "full_name": "meshtastic/nrf52_factory_erase",
+    "archived": false,
+    "description": "This repository contains the nRF52 Factory Erase firmware for the Meshtastic project.",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/protobufs",
+    "full_name": "meshtastic/protobufs",
+    "archived": false,
+    "description": "Protobuf definitions for the Meshtastic project",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/python",
+    "full_name": "meshtastic/python",
+    "archived": false,
+    "description": "The Python CLI and API for talking to Meshtastic devices",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/rust",
+    "full_name": "meshtastic/rust",
+    "archived": false,
+    "description": "A Rust library for connecting to and configuring Meshtastic radios.",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/web",
+    "full_name": "meshtastic/web",
+    "archived": false,
+    "description": "Meshtastic Web Client/JS Monorepo",
+    "license": "GPL-3.0",
+    "message": null
+  },
+  {
+    "repo": "meshtastic/web-flasher",
+    "full_name": "meshtastic/web-flasher",
+    "archived": false,
+    "description": "Official online flasher for Meshtastic device firmware",
+    "license": "GPL-3.0",
+    "message": null
+  }
+]
