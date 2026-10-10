@@ -4,9 +4,18 @@ A consolidated community resource index maintained by charlottemeshtastic. Start
 
 Meshtastic® is a registered trademark of Meshtastic LLC. This community index is not affiliated with, endorsed, or sponsored by Meshtastic LLC.
 
+## Start here
+
+Follow the [first-message path](docs/START_HERE.md), solve a problem with [troubleshooting](docs/TROUBLESHOOTING.md), or plan a [fixed/solar deployment](docs/DEPLOYMENT.md). For computer-based nodes, see [Linux and Raspberry Pi](docs/LINUX.md).
+
+[Searchable directory: build and preview](site/README.md)
+
 ## Contents
 
 - [Official resources](#official-resources)
+- [Configuration and troubleshooting](#configuration-and-troubleshooting)
+- [Deployment resources](#deployment-resources)
+- [Linux and Raspberry Pi](#linux-and-raspberry-pi)
 - [Guides and learning](#guides-and-learning)
 - [Clients and local tools](#clients-and-local-tools)
 - [Maps and diagnostics](#maps-and-diagnostics)
@@ -17,6 +26,7 @@ Meshtastic® is a registered trademark of Meshtastic LLC. This community index i
 - [Related LoRa projects](#related-lora-projects)
 - [Community directory](COMMUNITIES.md)
 - [Contribute](CONTRIBUTING.md)
+- [Maintenance and automated checks](docs/MAINTENANCE.md)
 - [Attribution and license](ATTRIBUTION.md)
 - [Audit and unresolved links](audit/REPORT.md)
 
@@ -36,6 +46,37 @@ Use [Meshtastic documentation](https://meshtastic.org/) as the authority for con
 - [Official Android App Sideloading via GitHub](https://github.com/meshtastic/Meshtastic-Android/releases/latest)
 - [Web App](https://client.meshtastic.org/)
 - [Web Flasher](https://flasher.meshtastic.org/)
+
+## Configuration and troubleshooting
+
+Use the [troubleshooting guide](docs/TROUBLESHOOTING.md) to choose a reference for your symptom.
+
+- [Channel configuration](https://meshtastic.org/docs/configuration/radio/channels/) — Messaging channels and key settings.
+- [Configuration tips](https://meshtastic.org/docs/configuration/tips/) — Roles, hop counts and position-sharing guidance.
+- [Flashing firmware](https://meshtastic.org/docs/getting-started/flashing-firmware/) — Instructions by board family.
+- [Getting started](https://meshtastic.org/docs/getting-started/) — Preparation and first setup.
+- [Initial configuration](https://meshtastic.org/docs/getting-started/initial-config/) — Client connections and regional setup.
+- [LoRa configuration](https://meshtastic.org/docs/configuration/radio/lora/) — Radio region, presets and frequency-slot settings.
+- [MQTT configuration](https://meshtastic.org/docs/configuration/module/mqtt/) — Internet bridging and module settings.
+- [Position configuration](https://meshtastic.org/docs/configuration/radio/position/) — Position sources and reporting settings.
+- [Region by country](https://meshtastic.org/docs/configuration/region-by-country/) — Navigation to the project's country/region guidance.
+- [Security and backups](https://meshtastic.org/docs/configuration/radio/security/) — Device keys, access and recovery documentation.
+
+## Deployment resources
+
+Use [deployment planning](docs/DEPLOYMENT.md) for antenna placement, solar sizing, enclosures and field-test notes. Related experiments remain under hardware and experiments.
+
+- [Antenna selection and testing](https://meshtastic.org/docs/hardware/antennas/) — Official antenna resource hub.
+- [Power configuration](https://meshtastic.org/docs/configuration/radio/power/) — Advanced device power behavior; consult device roles first.
+- [Supported hardware](https://meshtastic.org/docs/hardware/) — Official board documentation.
+
+## Linux and Raspberry Pi
+
+See the [Linux guide](docs/LINUX.md) to distinguish a connected-radio client from a computer running a node.
+
+- [MeshtasticD](https://meshtastic.org/docs/meshtasticd/) — Native node software for supported radio interfaces on Linux and macOS.
+- [mPWRD-OS](https://meshtastic.org/docs/software/mpwrd-os/) — Linux images and setup guidance for supported single-board computers.
+- [Python CLI documentation](https://meshtastic.org/docs/software/python/cli/) — Configure and communicate with an existing radio.
 
 ## Guides and learning
 

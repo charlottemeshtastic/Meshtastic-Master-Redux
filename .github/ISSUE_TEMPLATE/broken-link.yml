@@ -1,0 +1,30 @@
+name: Report a broken link
+description: Report a removal, redirect, blocked check or outdated description.
+title: "[Link] "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Listed URL
+    validations:
+      required: true
+  - type: dropdown
+    id: result
+    attributes:
+      label: What happened?
+      options:
+        - Page removed (404 or 410)
+        - Moved or redirected
+        - Login, CAPTCHA, rate limit or access block
+        - DNS, timeout or certificate error
+        - Description is outdated
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and date
+      description: Include status/message, check date and a suggested replacement. Do not include credentials or private details.
+    validations:
+      required: true

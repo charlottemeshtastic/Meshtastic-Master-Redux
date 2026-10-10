@@ -1,0 +1,38 @@
+name: Add a resource
+description: Suggest a documented Meshtastic resource.
+title: "[Resource] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical public URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: What does it help people do?
+      description: Give a short factual description and its category. Distinguish official, community and related projects.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and check date
+      description: Link to platform/capability evidence. Record redirects, archive status, license and the date checked where known.
+    validations:
+      required: true
+  - type: checkboxes
+    id: duplicate
+    attributes:
+      label: Existing entries
+      options:
+        - label: I searched the index for duplicate names, URLs and redirects.
+          required: true

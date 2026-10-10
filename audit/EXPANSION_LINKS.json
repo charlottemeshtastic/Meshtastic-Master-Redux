@@ -1,0 +1,4169 @@
+{
+  "checked_utc": "2026-10-10T01:44:28.997732+00:00",
+  "results": [
+    {
+      "url": "https://868.no",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://868.no",
+      "title": "Meshtastic Users Norway",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://PugetMesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://PugetMesh.org",
+      "title": "Puget Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://affirmatech.com/meshsense",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://affirmatech.com/meshsense",
+      "title": "Affirmatech Inc",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://albemarlemesh.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://albemarlemesh.com/",
+      "title": "",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://alsamesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://alsamesh.org",
+      "title": "AlsaMesh - R\u00e9seau Mesh Meshtastic en Alsace",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://apps.apple.com/us/app/meshtastic/id1586432531",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://apps.apple.com/us/app/meshtastic/id1586432531",
+      "title": "\u200eMeshtastic App - App Store",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://apraide.lv",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://apraide.lv",
+      "title": "Apraide.lv | LoRa mesh Latvijas kom\u016bna",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://areyoumeshingwith.us/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://areyoumeshingwith.us/",
+      "title": "Florida Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://at-labs.tech",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://at-labs.tech",
+      "title": "AT Labs \u2014 Rugged Comms and Accountability",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://austinmesh.org/",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://www.austinmesh.org/",
+      "title": "Austin Mesh",
+      "detail": "",
+      "redirects": [
+        "https://www.austinmesh.org/"
+      ]
+    },
+    {
+      "url": "https://azmsh.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://azmsh.net",
+      "title": "Home - Arizona Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://azmsh.net/index.html",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://azmsh.net/index.html",
+      "title": "Home - Arizona Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://bayme.sh/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://bayme.sh/",
+      "title": "Bayme.sh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://bircom.in",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://bircom.in",
+      "title": "Bircom Paragliding Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://birminghammesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://birminghammesh.org/",
+      "title": "BirminghamMesh.org &#8211; Send texts for free without cell towers, using a low-cost LoRa radio paired with your phone!",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://btownmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://btownmesh.org/",
+      "title": "Welcome! | btownmesh.org",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://bucksmesh.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://bucksmesh.net",
+      "title": "Home - BucksMesh.net",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://buffalora.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://buffalora.org",
+      "title": "BuffaLoRa &#8211; Keeping WNY Connected, One Message at a Time",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://canaryradio.io",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://canaryradio.io",
+      "title": "Canary Radio Company",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://centralvalleymesh.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://centralvalleymesh.net",
+      "title": "Central Valley Mesh \u2014 Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://charlotte-mesh-resource-directory.muddysnail1.chatgpt.site",
+      "status": "blocked",
+      "code": 401,
+      "final": "https://charlotte-mesh-resource-directory.muddysnail1.chatgpt.site",
+      "title": "Sign in required",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://chat.whatsapp.com/KiLXFGcCygf7UVWwmyvAnV",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://chat.whatsapp.com/KiLXFGcCygf7UVWwmyvAnV",
+      "title": "WhatsApp Group Invite",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://chicagolandmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://chicagolandmesh.org/",
+      "title": "Chicagoland Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://clarkcountyill.localmesh.org/",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://clarkcountyill.localmesh.org/doku.php?id=start",
+      "title": "start [Clark County Ill Mesh Network]",
+      "detail": "",
+      "redirects": [
+        "https://clarkcountyill.localmesh.org/doku.php?id=start"
+      ]
+    },
+    {
+      "url": "https://clarkcountyill.localmesh.org/doku.php?id=start",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://clarkcountyill.localmesh.org/doku.php?id=start",
+      "title": "start [Clark County Ill Mesh Network]",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://client.meshtastic.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://client.meshtastic.org/",
+      "title": "Meshtastic Web",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://coloradomesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://coloradomesh.org/",
+      "title": "ColoradoMesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://commsforall.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://commsforall.com",
+      "title": "CommsForAll: Connect the World &ndash; CommsForAll.com",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://cromesh.eu",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://cromesh.eu",
+      "title": "CroMesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://ctmesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://ctmesh.org",
+      "title": "CT Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://daytonmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://daytonmesh.org/",
+      "title": "DaytonMesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://dc.purgatoria.net",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://discord.com/invite/N9t2rt2VCN",
+      "title": "Purgatoria",
+      "detail": "",
+      "redirects": [
+        "https://discord.gg/N9t2rt2VCN",
+        "https://discord.com/invite/N9t2rt2VCN"
+      ]
+    },
+    {
+      "url": "https://dcmesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://dcmesh.org",
+      "title": "DC Mesh &#8211; DC Mesh is a community group working to build a mesh network of solar-powered Meshtastic and Meshcore radios in Washington DC. This network acts like a city-wide text messaging system, allowing people to communicate publicly",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://deme.sh",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/demesh/",
+      "title": "Delaware Meshtastic Users",
+      "detail": "",
+      "redirects": [
+        "https://www.facebook.com/groups/demesh/"
+      ]
+    },
+    {
+      "url": "https://denvermesh.org",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://coloradomesh.org/",
+      "title": "ColoradoMesh",
+      "detail": "",
+      "redirects": [
+        "https://coloradomesh.org/"
+      ]
+    },
+    {
+      "url": "https://discord.com/channels/867578229534359593/1203735828707156020",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/channels/867578229534359593/1203735828707156020",
+      "title": "Discord",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/6a5Sv2s9bG",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/6a5Sv2s9bG",
+      "title": "Austin Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/GHnaVAjqed",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/GHnaVAjqed",
+      "title": "Mesh Finland",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/THXwXWDRyT",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/THXwXWDRyT",
+      "title": "Greater Ottawa Mesh Radio Enthusiasts",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/dzHQSVe8EV",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/dzHQSVe8EV",
+      "title": "Mesh Greece",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/ktMAKGBnBs",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/ktMAKGBnBs",
+      "title": "Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/nGeQ8cbSM3",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/nGeQ8cbSM3",
+      "title": "DFW / North Texas Mesh (NTX Mesh) - Regional Group for Decentralized Communication",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/nwsvcXeqMX",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/nwsvcXeqMX",
+      "title": "Fab Lab Fort Smith",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/rN66wEedMY",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/rN66wEedMY",
+      "title": "Mesh Brisbane User Group",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.com/invite/snYp3ghCXC",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/snYp3ghCXC",
+      "title": "GTA+-Lora-Meshes",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://discord.gg/2vZkuckp8E",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/2vZkuckp8E",
+      "title": "TWC_Mesh",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/2vZkuckp8E"
+      ]
+    },
+    {
+      "url": "https://discord.gg/3A5RREcBcc",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/3A5RREcBcc",
+      "title": "Michigan Mesh",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/3A5RREcBcc"
+      ]
+    },
+    {
+      "url": "https://discord.gg/4QgFsuaC3Z",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/4QgFsuaC3Z",
+      "title": "Canberra Mesh Community",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/4QgFsuaC3Z"
+      ]
+    },
+    {
+      "url": "https://discord.gg/7MzbMMd2kg",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/7MzbMMd2kg",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/7MzbMMd2kg"
+      ]
+    },
+    {
+      "url": "https://discord.gg/ETFmtyzbFT",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/ETFmtyzbFT",
+      "title": "Mesh ITA Club",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/ETFmtyzbFT"
+      ]
+    },
+    {
+      "url": "https://discord.gg/EXWWwDmfBN",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/EXWWwDmfBN",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/EXWWwDmfBN"
+      ]
+    },
+    {
+      "url": "https://discord.gg/HdK9Rhr2ch",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/HdK9Rhr2ch",
+      "title": "Alabama Mesh Community",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/HdK9Rhr2ch"
+      ]
+    },
+    {
+      "url": "https://discord.gg/HnAfYUSU82",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/HnAfYUSU82",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/HnAfYUSU82"
+      ]
+    },
+    {
+      "url": "https://discord.gg/JUBrZepkaM",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/JUBrZepkaM",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/JUBrZepkaM"
+      ]
+    },
+    {
+      "url": "https://discord.gg/Kbs233rmq3",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/Kbs233rmq3",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/Kbs233rmq3"
+      ]
+    },
+    {
+      "url": "https://discord.gg/KzuwNRwE6q",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/KzuwNRwE6q",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/KzuwNRwE6q"
+      ]
+    },
+    {
+      "url": "https://discord.gg/MUVASVEEES",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/MUVASVEEES",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/MUVASVEEES"
+      ]
+    },
+    {
+      "url": "https://discord.gg/MWWbAkRR9v",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/MWWbAkRR9v",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/MWWbAkRR9v"
+      ]
+    },
+    {
+      "url": "https://discord.gg/PkbHWSEXBv",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/PkbHWSEXBv",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/PkbHWSEXBv"
+      ]
+    },
+    {
+      "url": "https://discord.gg/QYxUdKZpBd",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/QYxUdKZpBd",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/QYxUdKZpBd"
+      ]
+    },
+    {
+      "url": "https://discord.gg/RVb3pDPEZd",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/RVb3pDPEZd",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/RVb3pDPEZd"
+      ]
+    },
+    {
+      "url": "https://discord.gg/RZTGRDSpUX",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/RZTGRDSpUX",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/RZTGRDSpUX"
+      ]
+    },
+    {
+      "url": "https://discord.gg/StsH5BncsW",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/StsH5BncsW",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/StsH5BncsW"
+      ]
+    },
+    {
+      "url": "https://discord.gg/WRcfFH4sGz",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/WRcfFH4sGz",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/WRcfFH4sGz"
+      ]
+    },
+    {
+      "url": "https://discord.gg/XXpMeCAJye",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/XXpMeCAJye",
+      "title": "Central Illinois Mesh",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/XXpMeCAJye"
+      ]
+    },
+    {
+      "url": "https://discord.gg/Z9u5QcDTfZ",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/Z9u5QcDTfZ",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/Z9u5QcDTfZ"
+      ]
+    },
+    {
+      "url": "https://discord.gg/ZVtQeThnPU",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/ZVtQeThnPU",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/ZVtQeThnPU"
+      ]
+    },
+    {
+      "url": "https://discord.gg/aNtr5Cjftn",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/aNtr5Cjftn",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/aNtr5Cjftn"
+      ]
+    },
+    {
+      "url": "https://discord.gg/eEnDkQKEFJ",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/eEnDkQKEFJ",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/eEnDkQKEFJ"
+      ]
+    },
+    {
+      "url": "https://discord.gg/elp-mesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/elp-mesh",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/elp-mesh"
+      ]
+    },
+    {
+      "url": "https://discord.gg/floridamesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/floridamesh",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/floridamesh"
+      ]
+    },
+    {
+      "url": "https://discord.gg/gchSzHkPGG",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/gchSzHkPGG",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/gchSzHkPGG"
+      ]
+    },
+    {
+      "url": "https://discord.gg/gf4mShtJz4",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/gf4mShtJz4",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/gf4mShtJz4"
+      ]
+    },
+    {
+      "url": "https://discord.gg/j2fGcuMUAu",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/j2fGcuMUAu",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/j2fGcuMUAu"
+      ]
+    },
+    {
+      "url": "https://discord.gg/k8RputgWgD",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/k8RputgWgD",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/k8RputgWgD"
+      ]
+    },
+    {
+      "url": "https://discord.gg/mdv5ZfRucQ",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/mdv5ZfRucQ",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/mdv5ZfRucQ"
+      ]
+    },
+    {
+      "url": "https://discord.gg/qHH6E84wFg",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/qHH6E84wFg",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/qHH6E84wFg"
+      ]
+    },
+    {
+      "url": "https://discord.gg/rQSTQDZKgs",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/rQSTQDZKgs",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/rQSTQDZKgs"
+      ]
+    },
+    {
+      "url": "https://discord.gg/sauMmjJpTB",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/sauMmjJpTB",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/sauMmjJpTB"
+      ]
+    },
+    {
+      "url": "https://discord.gg/tKGFwFYvsT",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/tKGFwFYvsT",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/tKGFwFYvsT"
+      ]
+    },
+    {
+      "url": "https://discord.gg/uHDDE734DD",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/uHDDE734DD",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/uHDDE734DD"
+      ]
+    },
+    {
+      "url": "https://discord.gg/vUmWuZxYPh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/vUmWuZxYPh",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/vUmWuZxYPh"
+      ]
+    },
+    {
+      "url": "https://discord.gg/vrdSTQmzMY",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/vrdSTQmzMY",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/vrdSTQmzMY"
+      ]
+    },
+    {
+      "url": "https://discord.gg/wYwD56K439",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/wYwD56K439",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/wYwD56K439"
+      ]
+    },
+    {
+      "url": "https://discord.gg/xb9bBZJUpz",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/xb9bBZJUpz",
+      "title": "New Zealand Meshtastic Community",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/xb9bBZJUpz"
+      ]
+    },
+    {
+      "url": "https://discord.gg/xmsDfx5Jcr",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://discord.com/invite/xmsDfx5Jcr",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/invite/xmsDfx5Jcr"
+      ]
+    },
+    {
+      "url": "https://discordapp.com/channels/867578229534359593/1201610993462153376",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://discord.com/channels/867578229534359593/1201610993462153376",
+      "title": "Discord",
+      "detail": "",
+      "redirects": [
+        "https://discord.com/channels/867578229534359593/1201610993462153376"
+      ]
+    },
+    {
+      "url": "https://estmesh.ee/en/home",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://estmesh.ee/",
+      "title": "",
+      "detail": "",
+      "redirects": [
+        "https://estmesh.ee/"
+      ]
+    },
+    {
+      "url": "https://example.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://example.org/",
+      "title": "Example Domain",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://f-droid.org/packages/com.geeksville.mesh/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://f-droid.org/packages/com.geeksville.mesh/",
+      "title": "Meshtastic | F-Droid - Free and Open Source Android App Repository",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://facebook.com/groups/meshtasticbulgaria",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/meshtasticbulgaria",
+      "title": "Meshtastic Community Bulgaria",
+      "detail": "",
+      "redirects": [
+        "https://www.facebook.com/groups/meshtasticbulgaria"
+      ]
+    },
+    {
+      "url": "https://facebook.com/themeshtastic",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/themeshtastic",
+      "title": "Meshtastic",
+      "detail": "",
+      "redirects": [
+        "https://www.facebook.com/themeshtastic"
+      ]
+    },
+    {
+      "url": "https://flasher.meshtastic.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://flasher.meshtastic.org/",
+      "title": "",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://freq51.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://freq51.net/",
+      "title": "Overview",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://gamesh.net",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://meshingwithgeorgia.net/",
+      "title": "Georgia Statewide Mesh Coalition",
+      "detail": "",
+      "redirects": [
+        "https://meshingwithgeorgia.net/"
+      ]
+    },
+    {
+      "url": "https://gaulix.fr/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://gaulix.fr/",
+      "title": "Gaulix, un r\u00e9seau national communautaire propuls\u00e9 par Meshtastic et Meshcore. Un r\u00e9seau ouvert, structur\u00e9 et harmonis\u00e9, pour tous, partout. Une communaut\u00e9 soud\u00e9e par le partage. Unifier pour mieux coexister - Gaulix.fr",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://gbg-mesh.se/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://gbg-mesh.se/",
+      "title": "GBG Mesh \u2013 Meshtastic &amp; MeshCore i G\u00f6teborg",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://gitHub.com/Murturtle/MeshLinkBeta",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://gitHub.com/Murturtle/MeshLinkBeta",
+      "title": "GitHub - Murturtle/MeshLinkBeta: MeshLink - A plugin based Meshtastic bot \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/Affirmatech/MeshSense",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/Affirmatech/MeshSense",
+      "title": "GitHub - Affirmatech/MeshSense: MeshSense directly connects to your Meshtastic node via Bluetooth or WiFi and continuously provides information to assess the health of your mesh network. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/Colorado-Mesh/mesh-client",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/Colorado-Mesh/mesh-client",
+      "title": "GitHub - Colorado-Mesh/mesh-client: Cross-platform Electron desktop client for Meshtastic, MeshCore, and Reticulum on macOS, Linux, and Windows with multi-language support, BLE, USB serial, Wi\u2011Fi/TCP, MQTT, local SQLite history, and routing",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/Darachnid/Boston-Meshnet",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/Darachnid/Boston-Meshnet",
+      "title": "GitHub - Darachnid/Boston-Meshnet: Mesh networking for Boston: Connecting communities with Meshtastic devices for neighborhood alerts, air quality, and social justice projects. Join us to build a resilient, a socially adaptable community \u00b7 ",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/HarborScale/harbor-meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/HarborScale/harbor-meshtastic",
+      "title": "GitHub - HarborScale/harbor-meshtastic: The Harbor Meshtastic Integration script allows you to connect your Meshtastic device to Harbor Scale effortlessly. By running this Python code, you can send telemetry data from your Meshtastic device",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/HarukiToreda/Meshtastic-Experiments",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/HarukiToreda/Meshtastic-Experiments",
+      "title": "GitHub - HarukiToreda/Meshtastic-Experiments: Just my own measurements and values \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/IronGiu/MeshStation",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/IronGiu/MeshStation",
+      "title": "GitHub - IronGiu/MeshStation: Meshtastic SDR Analyzer &amp; Desktop GUI. A tool to analyze the meshtastic network graphically with a simple sdr. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/JFRHorton/MaineMesh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/JFRHorton/MaineMesh",
+      "title": "GitHub - JFRHorton/MaineMesh: A Maine-based radio mesh network using Meshtastic devices \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/MeshAddicts/meshinfo",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/MeshAddicts/meshinfo",
+      "title": "GitHub - MeshAddicts/meshinfo: Realtime web UI to run against a Meshtastic regional or private mesh network. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/Meshtastic-Argentina/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/Meshtastic-Argentina/",
+      "title": "Meshtastic Argentina Community \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/Murturtle/MeshLink",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/Murturtle/MeshLink",
+      "title": "GitHub - Murturtle/MeshLink: meshtastic discord bot/mesh side commands \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/N7IW/Meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/N7IW/Meshtastic",
+      "title": "GitHub - N7IW/Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/OE3JGW/MeshTenna",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/OE3JGW/MeshTenna",
+      "title": "GitHub - OE3JGW/MeshTenna: An app for comparing the performance of different antennas and locations using Meshtastic devices. It measures signal strength (RSSI) and signal-to-noise ratio (SNR) to help identify the best antenna and optimal l",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/RCGV1/Meshtastic-SAME-EAS-Alerter",
+      "title": "GitHub - RCGV1/Meshtastic-SAME-EAS-Alerter \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/ShakataGaNai/awesome-meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/ShakataGaNai/awesome-meshtastic",
+      "title": "GitHub - ShakataGaNai/awesome-meshtastic: A curated list of amazingly awesome Meshtastic resources \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/SignalGap/awesome-meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/SignalGap/awesome-meshtastic",
+      "title": "GitHub - SignalGap/awesome-meshtastic: A curated list of useful resources, tools, tutorials, projects, and community contributions related to the Meshtastic open-source mesh communication project. Whether you&#39;re a beginner or advanced u",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/StevoKeano/meshtastic-new-node-processing/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/StevoKeano/meshtastic-new-node-processing/",
+      "title": "GitHub - StevoKeano/meshtastic-new-node-processing: Identify new Meshtastic nodes and send them a welcome msg. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/TheCommsChannel/TC2-BBS-mesh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/TheCommsChannel/TC2-BBS-mesh",
+      "title": "GitHub - TheCommsChannel/TC2-BBS-mesh: A BBS server for Meshtastic for posting bulletins, sending mail to users, and channel directory. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/antlas0/meshtastic_visualizer",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/antlas0/meshtastic_visualizer",
+      "title": "GitHub - antlas0/meshtastic_visualizer: Qt desktop application to send messages, inspect packets, metrics from your Meshtastic node. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/armooo/meshpipe",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/armooo/meshpipe",
+      "title": "GitHub - armooo/meshpipe \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/baymesh/ratm-meshtastic-discord-bot",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/baymesh/ratm-meshtastic-discord-bot",
+      "title": "GitHub - baymesh/ratm-meshtastic-discord-bot: Discord Bot for Bay Area Mesh \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/bmswens/Meshtastic-Web-API",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/bmswens/Meshtastic-Web-API",
+      "title": "GitHub - bmswens/Meshtastic-Web-API: A web API to be hosted on devices connected to a Meshtastic node via serial connection. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/brianshea2/meshmap.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/brianshea2/meshmap.net",
+      "title": "GitHub - brianshea2/meshmap.net: a map of Meshtastic nodes \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/charlottemeshtastic/Meshtastic-Master-Redux/issues/new/choose",
+      "status": "blocked",
+      "code": 200,
+      "final": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcharlottemeshtastic%2FMeshtastic-Master-Redux%2Fissues%2Fnew%2Fchoose",
+      "title": "Sign in to GitHub \u00b7 GitHub",
+      "detail": "",
+      "redirects": [
+        "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcharlottemeshtastic%2FMeshtastic-Master-Redux%2Fissues%2Fnew%2Fchoose"
+      ]
+    },
+    {
+      "url": "https://github.com/charlottemeshtastic/Meshtastic-Master-Redux/pulls",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/charlottemeshtastic/Meshtastic-Master-Redux/pulls",
+      "title": "Pull requests \u00b7 charlottemeshtastic/Meshtastic-Master-Redux \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/charlottemeshtastic/awesome-meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/charlottemeshtastic/awesome-meshtastic",
+      "title": "GitHub - charlottemeshtastic/awesome-meshtastic: A curated list of amazingly awesome Meshtastic resources \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/charlottemeshtastic/awesome-meshtastic/tree/12a8eb77936585116146cec526315201ebd237a6",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/charlottemeshtastic/awesome-meshtastic/tree/12a8eb77936585116146cec526315201ebd237a6",
+      "title": "GitHub - charlottemeshtastic/awesome-meshtastic at 12a8eb77936585116146cec526315201ebd237a6 \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/charlottemeshtastic/awesome-meshtastic2",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/charlottemeshtastic/awesome-meshtastic2",
+      "title": "GitHub - charlottemeshtastic/awesome-meshtastic2: A curated list of useful resources, tools, tutorials, projects, and community contributions related to the Meshtastic open-source mesh communication project. Whether you&#39;re a beginner or",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/charlottemeshtastic/awesome-meshtastic2/tree/69d99e5df95846571cf9430c1ad595abb5930c8b",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/charlottemeshtastic/awesome-meshtastic2/tree/69d99e5df95846571cf9430c1ad595abb5930c8b",
+      "title": "GitHub - charlottemeshtastic/awesome-meshtastic2 at 69d99e5df95846571cf9430c1ad595abb5930c8b \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/cordelster/mesh-metrics",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/cordelster/mesh-metrics",
+      "title": "GitHub - cordelster/mesh-metrics: Script to pull prometheus node_exporter style metrics for Meshtastic repeater nodes. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/dadecoza/pidgin-meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/dadecoza/pidgin-meshtastic",
+      "title": "GitHub - dadecoza/pidgin-meshtastic: a Meshtastic plugin for Pidgin \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/danpeig/node-red-meshtastic-msg",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/danpeig/node-red-meshtastic-msg",
+      "title": "GitHub - danpeig/node-red-meshtastic-msg: Node-RED Meshtastic Messages Node \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/flmesh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/flmesh",
+      "title": "Florida Mesh \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/iz0kew/WeatherStation2Meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/iz0kew/WeatherStation2Meshtastic",
+      "title": "GitHub - iz0kew/WeatherStation2Meshtastic: Gateway modulare ESP32-S3 (Heltec LoRa 32 V3/V4) che riceve sensori meteo 868 MHz (Fine Offset/Ecowitt, LaCrosse, Bresser) e li ritrasmette su Meshtastic, con OLED, grafici 24h e bollettini automat",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/jeremiah-k/meshtastic-matrix-relay",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/jeremiah-k/meshtastic-matrix-relay",
+      "title": "GitHub - jeremiah-k/meshtastic-matrix-relay: A relay between a Matrix room and a Meshtastic radio. This relay extends your Matrix.org-based communication with a LoRa-based Meshtastic radio mesh. This is not an official product of Matrix.org",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/kstrauser/frozenbbs",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/kstrauser/frozenbbs",
+      "title": "GitHub - kstrauser/frozenbbs: Frozen BBS, a message board for Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/l5yth/potato-mesh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/l5yth/potato-mesh",
+      "title": "GitHub - l5yth/potato-mesh: A federated Meshtastic, Meshcore, and Reticulum node dashboard for your local community. No MQTT clutter, just local LoRa aether. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/liamcottle/meshtastic-map",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/liamcottle/meshtastic-map",
+      "title": "GitHub - liamcottle/meshtastic-map: A map of all Meshtastic nodes heard via MQTT. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/lmatte7/meshtastic-go",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/lmatte7/meshtastic-go",
+      "title": "GitHub - lmatte7/meshtastic-go: CLI for Meshtastic Devices \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshsat/meshsat",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshsat/meshsat",
+      "title": "GitHub - meshsat/meshsat: Open source gateway bridging Meshtastic LoRa, Iridium satellite, cellular SMS, APRS and TAK over a Reticulum routing layer. Keeps people connected when the network is not. Runs on a Raspberry Pi. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic-th",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic-th",
+      "title": "Meshtastic Thailand Community \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic-ua",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic-ua",
+      "title": "Meshtastic Ukraine \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/ETHClass2",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/ETHClass2",
+      "title": "GitHub - meshtastic/ETHClass2: Providing ETHClass2 from https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-Series/, originally by Lewis He \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/Meshtastic-Android",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/Meshtastic-Android",
+      "title": "GitHub - meshtastic/Meshtastic-Android: Android application for Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/Meshtastic-Android/releases/latest",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://github.com/meshtastic/Meshtastic-Android/releases/tag/v2.8.2",
+      "title": "Release v2.8.2 (29322440) \u00b7 meshtastic/Meshtastic-Android \u00b7 GitHub",
+      "detail": "",
+      "redirects": [
+        "https://github.com/meshtastic/Meshtastic-Android/releases/tag/v2.8.2"
+      ]
+    },
+    {
+      "url": "https://github.com/meshtastic/Meshtastic-Apple",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/Meshtastic-Apple",
+      "title": "GitHub - meshtastic/Meshtastic-Apple: Apple iOS, iPadOS, macOS, watchOS and visionOS Clients For Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/Meshtastic-arduino",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/Meshtastic-arduino",
+      "title": "GitHub - meshtastic/Meshtastic-arduino: Driver for interfacing with Meshtastic nodes over WiFi and Serial connections. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/RadioHead",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/RadioHead",
+      "title": "GitHub - meshtastic/RadioHead: a gited version of RadioHead 1.98 (with custom fixes) \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/antenna-reports",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/antenna-reports",
+      "title": "GitHub - meshtastic/antenna-reports: Community-contributed antenna testing reports and evaluations for Meshtastic devices. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/api",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/api",
+      "title": "GitHub - meshtastic/api: Meshtastic Website API \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/c-sharp",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/c-sharp",
+      "title": "GitHub - meshtastic/c-sharp: C# / .NET based command line interface and library for Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/enclosures",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/enclosures",
+      "title": "GitHub - meshtastic/enclosures: Enclosures for Meshtastic devices \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/firmware",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/firmware",
+      "title": "GitHub - meshtastic/firmware: The official firmware for Meshtastic, an open-source, off-grid mesh communication system. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/firmware-ota",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/firmware-ota",
+      "title": "GitHub - meshtastic/firmware-ota: BLE-OTA Mini firmware \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/firmware-ota-wifi",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/firmware-ota-wifi",
+      "title": "GitHub - meshtastic/firmware-ota-wifi: WiFi OTA Firmware \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/home-assistant",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/home-assistant",
+      "title": "GitHub - meshtastic/home-assistant: Home Assistant Integration for Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/i2c-sensor",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/i2c-sensor",
+      "title": "GitHub - meshtastic/i2c-sensor: Arduino boilerplate for defining your own custom I2C sensor for use with Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/meshTestic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/meshTestic",
+      "title": "GitHub - meshtastic/meshTestic: Meshtastic device end to end test suite \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/meshtastic",
+      "title": "GitHub - meshtastic/meshtastic: Meshtastic project website and documentation \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/meshtastic-site-planner",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/meshtastic-site-planner",
+      "title": "GitHub - meshtastic/meshtastic-site-planner: A Meshtastic Site Planner built around a containerized API running the SPLAT! RF analysis software \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/meshtasticator",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/meshtasticator",
+      "title": "GitHub - meshtastic/Meshtasticator: Discrete-event and interactive simulator for Meshtastic. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/mqtt",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/mqtt",
+      "title": "GitHub - meshtastic/mqtt: A meshtastic native packet aware MQTT broker boilerplate \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/network-management-client",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/network-management-client",
+      "title": "GitHub - meshtastic/network-management-client: A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/node-red-contrib-meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/node-red-contrib-meshtastic",
+      "title": "GitHub - meshtastic/node-red-contrib-meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/nrf52_factory_erase",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/nrf52_factory_erase",
+      "title": "GitHub - meshtastic/nrf52_factory_erase: This repository contains the nRF52 Factory Erase firmware for the Meshtastic project. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/protobufs",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/protobufs",
+      "title": "GitHub - meshtastic/protobufs: Protobuf definitions for the Meshtastic project \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/python",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/python",
+      "title": "GitHub - meshtastic/python: The Python CLI and API for talking to Meshtastic devices \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/rust",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/rust",
+      "title": "GitHub - meshtastic/rust: A Rust library for connecting to and configuring Meshtastic radios. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/web",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/web",
+      "title": "GitHub - meshtastic/web: Meshtastic Web Client/JS Monorepo \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/meshtastic/web-flasher",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/meshtastic/web-flasher",
+      "title": "GitHub - meshtastic/web-flasher: Official online flasher for Meshtastic device firmware \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/orgs/meshtastic/discussions",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/orgs/meshtastic/discussions",
+      "title": "meshtastic \u00b7 Discussions \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/orgs/meshtastic/discussions/10",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/orgs/meshtastic/discussions/10",
+      "title": "Sydney and Greater NSW Community \u00b7 meshtastic \u00b7 Discussion #10 \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/orgs/meshtastic/discussions/7",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/orgs/meshtastic/discussions/7",
+      "title": "Melbourne Meshtastic Users, Australia \u00b7 meshtastic \u00b7 Discussion #7 \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/pablorevilla-meshtastic/meshview",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/pablorevilla-meshtastic/meshview",
+      "title": "GitHub - pablorevilla-meshtastic/meshview: This project watches a MQTT topic for meshtastic messages, imports them to a database and has a web UI to view them. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/paulocode/multimesh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/paulocode/multimesh",
+      "title": "GitHub - paulocode/multimesh: A cross-platform Meshtastic\u00ae client based on Flutter \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/pdxlocations/connect",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/pdxlocations/connect",
+      "title": "GitHub - pdxlocations/connect: An Nodeless MQTT Client for Meshtastic \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/pdxlocations/contact",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/pdxlocations/contact",
+      "title": "GitHub - pdxlocations/contact: A curses-based console UI for Meshtastic, providing mesh chat, and device configuration from the terminal. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://github.com/pdxlocations/ha-entity-builder-for-meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://github.com/pdxlocations/ha-entity-builder-for-meshtastic",
+      "title": "GitHub - pdxlocations/ha-entity-builder-for-meshtastic: Quickly create Home Assistant entities for Meshtastic node metrics. \u00b7 GitHub",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://gitlab.com/crankylinuxuser/meshtastic_sdr",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://gitlab.com/crankylinuxuser/meshtastic_sdr",
+      "title": "Josh Conway / Meshtastic_SDR \u00b7 GitLab",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://groups.io/g/Meshtastic-Santa-Cruz",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://groups.io/g/Meshtastic-Santa-Cruz",
+      "title": "Meshtastic-Santa-Cruz@groups.io | Home",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://groups.io/g/NoVa-Meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://groups.io/g/NoVa-Meshtastic",
+      "title": "NoVa-Meshtastic@groups.io | Home",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://hackaday.io/project/171790-armawatch-armachat-long-range-radio-messengers",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://hackaday.io/project/171790-armawatch-armachat-long-range-radio-messengers",
+      "title": "ARMAWATCH &amp; ARMACHAT - long range radio messengers | Hackaday.io",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://hackaday.io/project/194509-harbor-breeze-meshtastic-hack",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://hackaday.io/project/194509-harbor-breeze-mesh-node-hack",
+      "title": "Harbor Breeze Mesh Node Hack | Hackaday.io",
+      "detail": "",
+      "redirects": [
+        "https://hackaday.io/project/194509-harbor-breeze-mesh-node-hack"
+      ]
+    },
+    {
+      "url": "https://hackaday.io/project/196990-meshtastic-or-helium-ultrasonic-wx-station",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://hackaday.io/project/196990-meshtastic-or-helium-ultrasonic-wx-station",
+      "title": "Meshtastic or Helium Ultrasonic WX Station | Hackaday.io",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://hackaday.io/project/202156-how-to-visualize-meshtastic-telemetry-on-grafana",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://hackaday.io/project/202156-how-to-visualize-meshtastic-telemetry-on-grafana",
+      "title": "How to Visualize Meshtastic Telemetry on Grafana | Hackaday.io",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://hdmesh.org/",
+      "status": "unverified",
+      "code": 0,
+      "final": "https://hdmesh.org/",
+      "title": "",
+      "detail": "curl: (28) Connection timed out after 15003 milliseconds\n",
+      "redirects": []
+    },
+    {
+      "url": "https://heltec.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://heltec.org",
+      "title": "Heltec Automation &#8211; LoRa/LoRaWAN/Meshtastic/Wi-FI HaLow",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://hoosiermesh.org",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://okimesh.org/",
+      "title": "OKI Mesh",
+      "detail": "",
+      "redirects": [
+        "https://okimesh.org/"
+      ]
+    },
+    {
+      "url": "https://icmesh.com",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://www.icmesh.com/",
+      "title": "Inter-Canyon Mesh Network",
+      "detail": "",
+      "redirects": [
+        "https://www.icmesh.com/"
+      ]
+    },
+    {
+      "url": "https://iowamesh.org",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://iowamesh.net/",
+      "title": "Iowa Mesh Net",
+      "detail": "",
+      "redirects": [
+        "https://iowamesh.net/"
+      ]
+    },
+    {
+      "url": "https://jaxmesh.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://jaxmesh.com/",
+      "title": "JaxMesh - Jacksonville Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://jkpg-mesh.se/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://jkpg-mesh.se/",
+      "title": "Home | Jkpg Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://ks3ckc.radio/meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://ks3ckc.radio/meshtastic",
+      "title": "KS3CKC - Kansas City Ham Radio Club | Amateur Radio Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://lagunamesh.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://lagunamesh.com",
+      "title": "Laguna Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://lasmesh.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://lasmesh.com",
+      "title": "LASmesh \u2014 LASmesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://lilygo.aliexpress.com/store/1101195566",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://lilygo.aliexpress.com/store/1101195566",
+      "title": "lilygo Official Store - Amazing products with exclusive discounts on AliExpress",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://lincme.sh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://lincme.sh",
+      "title": "LINC &mdash; Lincoln County Mesh Messaging",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://links.meshchile.cl",
+      "status": "unverified",
+      "code": 0,
+      "final": "https://links.meshchile.cl",
+      "title": "",
+      "detail": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, plea",
+      "redirects": []
+    },
+    {
+      "url": "https://linktr.ee/meshtastic",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://linktr.ee/status/blocked?username=meshtastic",
+      "title": "Linktree | Blocked Account",
+      "detail": "",
+      "redirects": [
+        "https://linktr.ee/status/blocked?username=meshtastic"
+      ]
+    },
+    {
+      "url": "https://longmont.localmesh.org/",
+      "status": "unverified",
+      "code": null,
+      "final": "https://longmont.localmesh.org/",
+      "detail": "Target did not resolve to a permitted public address",
+      "redirects": []
+    },
+    {
+      "url": "https://lora.reseaulibre.ca/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://lora.reseaulibre.ca/",
+      "title": "Welcome to R\u00e9seau Libre! - R\u00e9seau Libre",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://loramesh.ca/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://loramesh.ca/",
+      "title": "Meshtastic Canada \u2014 Free Off-Grid Text Messaging With No Cell Service | LoRaMesh.ca",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://louisianamesh.org/",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://www.gulfcoastmesh.org/",
+      "title": "Gulf Coast Mesh \u2014 Resilient communications for the entire Gulf Coast",
+      "detail": "",
+      "redirects": [
+        "https://www.gulfcoastmesh.org/"
+      ]
+    },
+    {
+      "url": "https://lrme.sh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://lrme.sh",
+      "title": "lrme.sh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://madisonmesh.com/",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://www.madisonmesh.com/",
+      "title": "MadisonMesh",
+      "detail": "",
+      "redirects": [
+        "http://www.madisonmesh.com/",
+        "https://www.madisonmesh.com/"
+      ]
+    },
+    {
+      "url": "https://madmesh.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://madmesh.net",
+      "title": "Madison Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://malha.meshtastic.pt",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://malha.meshtastic.pt",
+      "title": "Meshtastic.PT Metrics - Malha",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://map.areyoumeshingwith.us/?lat=28.258786255470607&lng=278.89892578125006&zoom=8",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://map.areyoumeshingwith.us/?lat=28.258786255470607&lng=278.89892578125006&zoom=8",
+      "title": "Florida Mesh Map",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mastodon.social/@Gaulix",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mastodon.social/@Gaulix",
+      "title": "Gaulix (@Gaulix@mastodon.social) - Mastodon",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mastodon.social/@meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mastodon.social/@meshtastic",
+      "title": "Meshtastic (@meshtastic@mastodon.social) - Mastodon",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://matrix.to/#/!kKfPDGFNasdKxwulZL:matrix.org?via=matrix.org",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://matrix.to/#/!kKfPDGFNasdKxwulZL:matrix.org?via=matrix.org",
+      "title": "You&apos;re invited to talk on Matrix",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://matrix.to/#/#berlinmesh:c-base.org",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://matrix.to/#/#berlinmesh:c-base.org",
+      "title": "You&apos;re invited to talk on Matrix",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://matrix.to/#/#gaulix:matrix.org",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://matrix.to/#/#gaulix:matrix.org",
+      "title": "You&apos;re invited to talk on Matrix",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://matrix.to/#/#meshnorway:matrix.org",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://matrix.to/#/#meshnorway:matrix.org",
+      "title": "You&apos;re invited to talk on Matrix",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://matrix.to/#/#meshtastic-lv:matrix.org",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://matrix.to/#/#meshtastic-lv:matrix.org",
+      "title": "You&apos;re invited to talk on Matrix",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://matrix.to/#/#meshtasticpl:matrix.org",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://matrix.to/#/#meshtasticpl:matrix.org",
+      "title": "You&apos;re invited to talk on Matrix",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mayomesh.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mayomesh.net/",
+      "title": "Mayo Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mesh-finland.github.io",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mesh-finland.github.io",
+      "title": "Mesh Finland",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mesh-nrw.de/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mesh-nrw.de/",
+      "title": "Mesh-NRW",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mesh.bs",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mesh.bs",
+      "title": "Welcome to Mesh Bahamas - The Bahamas Meshastic Users Group - All things LoRa",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mesh.creativo.hu/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mesh.creativo.hu/",
+      "title": "Meshtastic vs. MeshCore - \u00d6sszehasonl\u00edt\u00e1s",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mesh.mk.ua/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mesh.mk.ua/",
+      "title": "Mykolaiv Meshtastic Network",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mesh.motaba.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mesh.motaba.net",
+      "title": "Meshtastic Community Bulgaria",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mesh.zr1rf.za.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mesh.zr1rf.za.net/",
+      "title": "ZA Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshavl.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshavl.com",
+      "title": "MeshAVL | Asheville Meshtastic &amp; MeshCore Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshbrugere.dk",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshbrugere.dk",
+      "title": "Forside - Danske Meshtastic Brugere",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshcn.net/",
+      "status": "blocked",
+      "code": 403,
+      "final": "https://meshcn.net/",
+      "title": "Attention Required! | Cloudflare",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshcolombia.co/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshcolombia.co/",
+      "title": "Meshtastic Colombia Community | Meshtastic Colombia Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshcolumb.us/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshcolumb.us/",
+      "title": "Welcome! | Central Ohio Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshconsin.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshconsin.org",
+      "title": "Home - Meshconsin",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshenvy.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshenvy.org",
+      "title": "Resilient communications across Nevada",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshhessen.de/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshhessen.de/",
+      "title": "Startseite | MESH HESSEN",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshhub.uk/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshhub.uk/",
+      "title": "Mesh Hub UK",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshinfo.cvme.sh/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshinfo.cvme.sh/",
+      "title": "MeshInfo",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshmap.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshmap.net/",
+      "title": "MeshMap - Meshtastic Node Map",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshmonitor.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshmonitor.org/",
+      "title": "MeshMonitor",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshnet.si",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshnet.si",
+      "title": "MeshNet.si \u2013 slovenska skupnost Meshtastic \u2013 MeshNet.si",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshoregon.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshoregon.com",
+      "title": "MeshOregon | The best Meshtastic network in Oregon",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshsaar.de/",
+      "status": "unverified",
+      "code": 0,
+      "final": "https://meshsaar.de/",
+      "title": "",
+      "detail": "curl: (60) SSL: no alternative certificate subject name matches target host name 'meshsaar.de'\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and",
+      "redirects": []
+    },
+    {
+      "url": "https://meshsense.affirmatech.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshsense.affirmatech.com/",
+      "title": "MeshSense Global Map",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.at",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.at",
+      "title": "Lora Mesh Netzwerk &#8211; Meshtastic.at und Meshworld.at &#8211; Meshtastic\u00ae ist ein dezentrales, frei zug\u00e4ngliches Kommunikationsnetzwerk",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.au",
+      "status": "blocked",
+      "code": 403,
+      "final": "https://meshtastic.au/wp",
+      "title": "Just a moment...",
+      "detail": "",
+      "redirects": [
+        "https://meshtastic.au/wp"
+      ]
+    },
+    {
+      "url": "https://meshtastic.info.pl",
+      "status": "unverified",
+      "code": null,
+      "final": "https://meshtastic.info.pl",
+      "detail": "Target did not resolve to a permitted public address",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.liamcottle.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.liamcottle.net/",
+      "title": "Meshtastic Map",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.nz/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.nz/",
+      "title": "Meshtastic Community (NZ)",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/",
+      "title": "Off-Grid Communication For Everyone | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/blog/a-major-solution-to-a-miner-problem/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/blog/a-major-solution-to-a-miner-problem/",
+      "title": "A Major Solution to a Miner Problem | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/module/mqtt/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/module/mqtt/",
+      "title": "MQTT Module Configuration | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/radio/channels/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/radio/channels/",
+      "title": "Channel Configuration | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/radio/lora/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/radio/lora/",
+      "title": "LoRa Configuration | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/radio/position/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/radio/position/",
+      "title": "Position Configuration | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/radio/power/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/radio/power/",
+      "title": "Power Configuration | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/radio/security/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/radio/security/",
+      "title": "Security Configuration | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/region-by-country/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/region-by-country/",
+      "title": "LoRa Region by Country | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/configuration/tips/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/configuration/tips/",
+      "title": "Configuration Tips | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/getting-started/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/getting-started/",
+      "title": "Getting Started | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/getting-started/flashing-firmware/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/getting-started/flashing-firmware/",
+      "title": "Flashing Firmware | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/getting-started/initial-config/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/getting-started/initial-config/",
+      "title": "Initial Configuration | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/hardware/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/hardware/",
+      "title": "Supported Hardware | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/hardware/antennas/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/hardware/antennas/",
+      "title": "LoRa Antennas | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/legal/licensing-and-trademark/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/legal/licensing-and-trademark/",
+      "title": "Licensing & Trademark Rules | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/meshtasticd/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/meshtasticd/",
+      "title": "MeshtasticD | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/software/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/software/",
+      "title": "Software | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/software/integrations/mqtt/home-assistant/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/software/integrations/mqtt/home-assistant/",
+      "title": "Home Assistant | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/software/mpwrd-os/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/software/mpwrd-os/",
+      "title": "mPWRD-OS | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/software/python/cli/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/software/python/cli/",
+      "title": "Meshtastic Python CLI Guide | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/docs/software/web-client/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/docs/software/web-client/",
+      "title": "Web Client Overview | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/downloads/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/downloads/",
+      "title": "Downloads | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.org/e/#CjYSIGgdyu2SHIgSquPZ8Z-YFZj0BLW01FWThysbgmgimh7QGgpCYWlyZXNNZXNoKAEwAToCCBASDwgBOAZACUgBUB5oAcgGAQ",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.org/e/#CjYSIGgdyu2SHIgSquPZ8Z-YFZj0BLW01FWThysbgmgimh7QGgpCYWlyZXNNZXNoKAEwAToCCBASDwgBOAZACUgBUB5oAcgGAQ",
+      "title": "Meshtastic Channel Settings | Meshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.pt",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.pt",
+      "title": "P\u00e1gina Inicial - Meshtastic PT",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshtastic.pt/map",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshtastic.pt/map",
+      "title": "Mapa de Nodes - Meshtastic PT",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshview.bayme.sh/",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://meshview.bayme.sh/map",
+      "title": "Meshview",
+      "detail": "",
+      "redirects": [
+        "https://meshview.bayme.sh/map"
+      ]
+    },
+    {
+      "url": "https://meshview.bayme.sh/map",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshview.bayme.sh/map",
+      "title": "Meshview",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://meshville.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://meshville.org/",
+      "title": "Meshville : Home",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://missionviejomesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://missionviejomesh.org/",
+      "title": "Mission Viejo Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://missourimesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://missourimesh.org",
+      "title": "Missouri Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://montanamesh.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://montanamesh.com/",
+      "title": "Montana Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mrymesh.net/",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://discord.com/invite/xeqYpc5D89",
+      "title": "MontereyBayMesh mrymesh.net",
+      "detail": "",
+      "redirects": [
+        "https://discord.gg/xeqYpc5D89",
+        "https://discord.com/invite/xeqYpc5D89"
+      ]
+    },
+    {
+      "url": "https://mspmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mspmesh.org/",
+      "title": "Welcome to MSPMesh.org - MSPMesh - Twin Cities, Greater MN, Western WI Mesh Networking Group",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://mtnme.sh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://mtnme.sh",
+      "title": "MtnMe.sh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://munichmesh.de/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://munichmesh.de/",
+      "title": "\u00dcbersicht | MunichMesh.de",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://ncmesh.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://ncmesh.net",
+      "title": "NC Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://neome.sh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://neome.sh",
+      "title": "NEO Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://nittanyvalleymesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://nittanyvalleymesh.org/",
+      "title": "Nittany Valley Mesh \u2013 Homepage",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://nocomesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://nocomesh.org",
+      "title": "NoCo Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://nswmesh.au",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://nswmesh.au",
+      "title": "NSW Mesh Wiki",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://ntxmesh.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://ntxmesh.com",
+      "title": "NTX Mesh | DFW / North Texas Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://nwimesh.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://nwimesh.net/",
+      "title": "NWI Mesh Net",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://nyme.sh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://nyme.sh",
+      "title": "Welcome to the party! / MeshNY",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://opencollective.com/meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://opencollective.com/meshtastic",
+      "title": "Meshtastic - Open Collective",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://ossmalta.eu/lora",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://ossmalta.eu/lora/",
+      "title": "LoRa - Open Source Society Malta",
+      "detail": "",
+      "redirects": [
+        "https://ossmalta.eu/lora/"
+      ]
+    },
+    {
+      "url": "https://ottawamesh.ca",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://ottawamesh.ca",
+      "title": "Greater Ottawa Mesh Enthusiasts",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://owl-mesh.de/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://owl-mesh.de/",
+      "title": "OWL-Mesh \u2013 Deine Community f\u00fcr Ostwestfalen-Lippe",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://pamfinds.com/guides/disaster-comms-meshtastic-meshcore/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://pamfinds.com/guides/disaster-comms-meshtastic-meshcore/",
+      "title": "Disaster Comms with Meshtastic + MeshCore (2026) | PAM Finds",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://pdxmesh.com",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://discord.com/invite/y4R5sHPqaU",
+      "title": "PDX+ Meshtastic Users",
+      "detail": "",
+      "redirects": [
+        "https://discord.gg/y4R5sHPqaU",
+        "https://discord.com/invite/y4R5sHPqaU"
+      ]
+    },
+    {
+      "url": "https://phillymesh.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://phillymesh.net/",
+      "title": "Philly Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://pileupdx.com/product-category/brands/meshtastic/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://pileupdx.com/product-category/brands/meshtastic/",
+      "title": "Meshtastic Archives - PileupDX.com",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.geeksville.mesh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://play.google.com/store/apps/details?id=com.geeksville.mesh",
+      "title": "Meshtastic - Apps on Google Play",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.specfive.checkers",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://play.google.com/store/apps/details?id=com.specfive.checkers",
+      "title": "CheckTastic - Apps on Google Play",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.specfive.chess",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://play.google.com/store/apps/details?id=com.specfive.chess",
+      "title": "Mesh Chess - Apps on Google Play",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.specfive.meshtactoe",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://play.google.com/store/apps/details?id=com.specfive.meshtactoe",
+      "title": "Mesh-Tac-Toe - Apps on Google Play",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://pole1.co.uk/blog/5/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://pole1.co.uk/blog/5/",
+      "title": "Meshtastic RF Connector Types SMA SMA-RP N-TYPE pig-tails bulk-head",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://potatomesh.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://potatomesh.net/",
+      "title": "Berlin Chaos Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://prme.sh",
+      "status": "unverified",
+      "code": null,
+      "final": "https://prme.sh",
+      "detail": "Target did not resolve to a permitted public address",
+      "redirects": []
+    },
+    {
+      "url": "https://pvmesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://pvmesh.org",
+      "title": "Pioneer Valley Mesh Network",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://radioaficionados.mx/meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://radioaficionados.mx/meshtastic",
+      "title": "Radioaficionados XE",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://ranfty.github.io/meshsight/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://ranfty.github.io/meshsight/",
+      "title": "MeshSight",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://redgridtactical.com/mgrs",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://redgridtactical.com/mgrs",
+      "title": "Red Grid MGRS: GPS Navigation, Waypoints &amp; Pro",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://rocmesh.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://rocmesh.com/",
+      "title": "ROCMesh - Home",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://scmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://scmesh.org/",
+      "title": "Space Coast Mesh | Space Coast Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://shop.uniteng.com",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://store.bqvoy.com/",
+      "title": "BQ Voyage Shop &#8211; Shop for RF Products",
+      "detail": "",
+      "redirects": [
+        "https://store.bqvoy.com/"
+      ]
+    },
+    {
+      "url": "https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ",
+      "title": "Signal Group",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://sites.google.com/view/someshtastic/home",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://sites.google.com/view/someshtastic/home",
+      "title": "Southern Oregon Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://socalmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://socalmesh.org/",
+      "title": "SoCal Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://southcoastmesh.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://southcoastmesh.com",
+      "title": "Home -- SouthCoast Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://specfive.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://specfive.com",
+      "title": "SpecFive LLC - Complete Meshtastic Devices Powered By SpecFive LLC",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://sthlm-mesh.se/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://sthlm-mesh.se/",
+      "title": "STHLM-MESH",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://stmesh.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://stmesh.net",
+      "title": "Southern Tier NY Mesh Network",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://store.rakwireless.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://store.rakwireless.com",
+      "title": "RAKwireless Store: Marketplace for IoT, LoRaWAN, and LoRa.",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo",
+      "title": "Meshtastic Nodes &amp; Hardware- RAK &amp; LILYGO &ndash; Rokland",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://svmesh.net",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://susme.sh",
+      "title": "Susquehanna Valley Mesh",
+      "detail": "",
+      "redirects": [
+        "https://susme.sh"
+      ]
+    },
+    {
+      "url": "https://svmeshtastic.org",
+      "status": "unverified",
+      "code": null,
+      "final": "https://svmeshtastic.org",
+      "detail": "Target did not resolve to a permitted public address",
+      "redirects": []
+    },
+    {
+      "url": "https://swansea.localmesh.org/",
+      "status": "unverified",
+      "code": 0,
+      "final": "https://swansea.localmesh.org/",
+      "title": "",
+      "detail": "curl: (60) SSL certificate problem: certificate has expired\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the we",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/+CIv_dr2IAUNmYWQ1",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/+CIv_dr2IAUNmYWQ1",
+      "title": "Telegram: Join Group Chat",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/+EYBkU17mlcU2MWI8",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/+EYBkU17mlcU2MWI8",
+      "title": "Telegram: Join Group Chat",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/+LzO9qeIC7Ok2YTVh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/+LzO9qeIC7Ok2YTVh",
+      "title": "Telegram: Join Group Chat",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/+bkCEaiI-i-Q2ZTBk",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/+bkCEaiI-i-Q2ZTBk",
+      "title": "Telegram: Join Group Chat",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/+xS_5ZqDoP6BlODNh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/+xS_5ZqDoP6BlODNh",
+      "title": "Telegram: Join Group Chat",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/Mesh_BC",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/Mesh_BC",
+      "title": "Telegram: View @Mesh_BC",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/Mesh_BC_Dawson_Creek",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/Mesh_BC_Dawson_Creek",
+      "title": "Telegram: View @Mesh_BC_Dawson_Creek",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/Mesh_Hessen",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/Mesh_Hessen",
+      "title": "Telegram: View @Mesh_Hessen",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/MeshtManitoba",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/MeshtManitoba",
+      "title": "Telegram: View @MeshtManitoba",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/MeshtNB",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/MeshtNB",
+      "title": "Telegram: View @MeshtNB",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/MeshtNWT",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/MeshtNWT",
+      "title": "Telegram: View @MeshtNWT",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/MeshtNewfoundland",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/MeshtNewfoundland",
+      "title": "Telegram: View @MeshtNewfoundland",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/MeshtNovaScotia",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/MeshtNovaScotia",
+      "title": "Telegram: View @MeshtNovaScotia",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/MeshtPEI",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/MeshtPEI",
+      "title": "Telegram: View @MeshtPEI",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/MeshtSaska",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/MeshtSaska",
+      "title": "Telegram: View @MeshtSaska",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/armeniamesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/armeniamesh",
+      "title": "Telegram: View @armeniamesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/be_mesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/be_mesh",
+      "title": "Telegram: View @be_mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/comunidademeshtasticpt",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/comunidademeshtasticpt",
+      "title": "Telegram: View @comunidademeshtasticpt",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/lora_mesh_barnaul",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/lora_mesh_barnaul",
+      "title": "Telegram: View @lora_mesh_barnaul",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshint",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshint",
+      "title": "Telegram: View @meshint",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtAlta",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtAlta",
+      "title": "Telegram: View @meshtAlta",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtOnt",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtOnt",
+      "title": "Telegram: View @meshtOnt",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtQuebec",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtQuebec",
+      "title": "Telegram: View @meshtQuebec",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_argentina/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_argentina/",
+      "title": "Telegram: View @meshtastic_argentina",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_br",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_br",
+      "title": "Telegram: View @meshtastic_br",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_canada",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_canada",
+      "title": "Telegram: View @meshtastic_canada",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_eng",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_eng",
+      "title": "Telegram: View @meshtastic_eng",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_esp",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_esp",
+      "title": "Telegram: View @meshtastic_esp",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_italia",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_italia",
+      "title": "Telegram: View @meshtastic_italia",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_italia_community",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_italia_community",
+      "title": "Telegram: View @meshtastic_italia_community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_m",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_m",
+      "title": "Telegram: View @meshtastic_m",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_mexico",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_mexico",
+      "title": "Telegram: View @meshtastic_mexico",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_nl",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_nl",
+      "title": "Telegram: Contact @meshtastic_nl",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_thailand",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_thailand",
+      "title": "Telegram: View @meshtastic_thailand",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtastic_ua",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtastic_ua",
+      "title": "Telegram: View @meshtastic_ua",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtasticco",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtasticco",
+      "title": "Telegram: View @meshtasticco",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtasticgermany",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtasticgermany",
+      "title": "Telegram: View @meshtasticgermany",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/meshtcalgary",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/meshtcalgary",
+      "title": "Telegram: View @meshtcalgary",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/messtastic_ua_odesa",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/messtastic_ua_odesa",
+      "title": "Telegram: Contact @messtastic_ua_odesa",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/mestastic_ua_chernivtsi",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/mestastic_ua_chernivtsi",
+      "title": "Telegram: Contact @mestastic_ua_chernivtsi",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/namurmesh868",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/namurmesh868",
+      "title": "Telegram: Contact @namurmesh868",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/occimesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/occimesh",
+      "title": "Telegram: View @occimesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/tameshtastic",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/tameshtastic",
+      "title": "Telegram: View @tameshtastic",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://t.me/trmesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://t.me/trmesh",
+      "title": "Telegram: Contact @trmesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://tacoma.localmesh.org",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://tacoma.localmesh.org/doku.php?id=start",
+      "title": "start [tacoma.localmesh]",
+      "detail": "",
+      "redirects": [
+        "https://tacoma.localmesh.org/doku.php?id=start"
+      ]
+    },
+    {
+      "url": "https://tacoma.localmesh.org/doku.php?id=start",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://tacoma.localmesh.org/doku.php?id=start",
+      "title": "start [tacoma.localmesh]",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://tamesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://tamesh.org/",
+      "title": "Meshtastic T\u00fcrkiye Toplulu\u011fu",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://tchiniss.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://tchiniss.net/",
+      "title": "Tchiniss.net \u2013 R\u00e9seau mesh du Grand Li\u00e8ge",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://tinyurl.com/waw-signal",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://signal.group/#CjQKIH6ht6sTWQDyjV7FMBAU4ko6xHVTRjIp1Eo-q44ZHVxYEhD-CONkDX5a3EYUKneGADls",
+      "title": "Signal Group",
+      "detail": "",
+      "redirects": [
+        "https://signal.group/#CjQKIH6ht6sTWQDyjV7FMBAU4ko6xHVTRjIp1Eo-q44ZHVxYEhD-CONkDX5a3EYUKneGADls"
+      ]
+    },
+    {
+      "url": "https://trmesh.org",
+      "status": "unverified",
+      "code": null,
+      "final": "https://trmesh.org",
+      "detail": "Target did not resolve to a permitted public address",
+      "redirects": []
+    },
+    {
+      "url": "https://vpmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://vpmesh.org/",
+      "title": "Virginia Peninsula Mesh | Virginia Peninsula Mesh Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://welshmesh.pysgod.xyz",
+      "status": "unverified",
+      "code": 0,
+      "final": "https://welshmesh.pysgod.xyz",
+      "title": "",
+      "detail": "curl: (28) Connection timed out after 15000 milliseconds\n",
+      "redirects": []
+    },
+    {
+      "url": "https://wiki.868.band/Home",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://wiki.868.band/Home",
+      "title": "Home",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://wiki.mt.gt/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://wiki.mt.gt/",
+      "title": "Canadaverse Mesh Wiki | Canadaverse Mesh Wiki",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.abqm.net",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.abqm.net",
+      "title": "ABQM.NET",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.austinmesh.org/learn/#about",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://www.austinmesh.org/about/",
+      "title": "Learn about Meshtastic and Austin Mesh",
+      "detail": "",
+      "redirects": [
+        "https://www.austinmesh.org/about/"
+      ]
+    },
+    {
+      "url": "https://www.avmesh.org/",
+      "status": "unverified",
+      "code": null,
+      "final": "https://www.avmesh.org/",
+      "detail": "Target did not resolve to a permitted public address",
+      "redirects": []
+    },
+    {
+      "url": "https://www.cimesh.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.cimesh.net/",
+      "title": "Central Indiana Mesh Network (CIMN)",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.cincymesh.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.cincymesh.org",
+      "title": "Home",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/1041534027106861",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/1041534027106861",
+      "title": "Facebook",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/1083395923209693",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/1083395923209693",
+      "title": "Meshtastic Berkshire",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/1122509422249414",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/1122509422249414",
+      "title": "Meshtastic / Meshcore Lietuva",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/1159312151703920",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/1159312151703920",
+      "title": "ON-Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/1169993994163108",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/1169993994163108",
+      "title": "Meshtastic Australia Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/1556630645195649",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/1556630645195649",
+      "title": "Meshtastic User Group Tasmania",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/1870643856678060/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/1870643856678060/",
+      "title": "Meshtastic Saskatoon",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/2194841810874220",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/2194841810874220",
+      "title": "Meshtastic Romania",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/368474532644811/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/368474532644811/",
+      "title": "Meshtastic BE",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/3696312513946679/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/3696312513946679/",
+      "title": "Meshtastic Brighton",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/376287875353461/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/376287875353461/",
+      "title": "Boston Meshnet (Meshtastic/Meshcore/Reticulum)",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/413628121046386",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/413628121046386",
+      "title": "Meshtastic Taiwan Community \u81fa\u7063\u93c8\u7db2",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/669246748941068",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/669246748941068",
+      "title": "Meshtastic Iasi",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/942404880478488",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/942404880478488",
+      "title": "Oklahoma Meshtastic Group",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/athensmesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/athensmesh",
+      "title": "Athens Meshtastic Node Runners",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/cosmeshtastic",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/cosmeshtastic",
+      "title": "Colorado Springs Meshtastic Network",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/meshcrete",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/meshcrete",
+      "title": "Meshtastic Crete Users Group",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/meshtastic.france",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/meshtastic.france",
+      "title": "Collectif Meshtastic France",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/meshtasticnortheastengland/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/meshtasticnortheastengland/",
+      "title": "Meshtastic North East England",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/meshtasticusa/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/meshtasticusa/",
+      "title": "Meshtastic USA\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/meshtasticvictoria",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/meshtasticvictoria",
+      "title": "Facebook",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/tamesh",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/tamesh",
+      "title": "Meshtastic T\u00fcrkiye Toplulu\u011fu",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/groups/ukmeshtastickent/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/ukmeshtastickent/",
+      "title": "UK Meshtastic, MeshCore Kent / South East",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/",
+      "title": "Facebook",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/share/g/1Gbm8Sujgm/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/groups/314194264979559/?rdid=HavVQOLWCyNpwjxM&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1Gbm8Sujgm%2F",
+      "title": "Indiana Mesh",
+      "detail": "",
+      "redirects": [
+        "https://www.facebook.com/groups/314194264979559/?rdid=HavVQOLWCyNpwjxM&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1Gbm8Sujgm%2F"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/",
+      "title": "Facebook",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP",
+      "title": "Facebook",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/share/o6CZ9E35UmDKjp9U/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/share/o6CZ9E35UmDKjp9U/",
+      "title": "Facebook",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.facebook.com/tamesh.org",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.facebook.com/tamesh.org",
+      "title": "TA Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.hawaiimesh.net/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.hawaiimesh.net/",
+      "title": "Home - Hawaii Meshnet",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.idahomesh.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.idahomesh.com/",
+      "title": "Idaho Mesh \u2014 Meshtastic \u00b7 MeshCore \u00b7 Reticulum \u00b7 LoRa",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.instagram.com/austinmesh/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.instagram.com/austinmesh/",
+      "title": "AustinMesh.org (&#064;austinmesh) \u2022 Instagram photos and videos",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.instagram.com/meshnodeid",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.instagram.com/meshnodeid",
+      "title": "Komunitas MeshNode Indonesia (&#064;meshnodeid) \u2022 Instagram photos and videos",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.instagram.com/themeshtastic/",
+      "status": "membership-unverified",
+      "code": 200,
+      "final": "https://www.instagram.com/themeshtastic/",
+      "title": "Meshtastic (&#064;themeshtastic) \u2022 Instagram photos and videos",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.instructables.com/Meshtastic-Solar-Buoy/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.instructables.com/Meshtastic-Solar-Buoy/",
+      "title": "Meshtastic/MeshCore Solar Buoy : 12 Steps (with Pictures) - Instructables",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.lilygo.cc/collections/lora-or-gps",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://lilygo.cc/collections/lora-or-gps",
+      "title": "LoRa or GPS &ndash; LILYGO\u00ae",
+      "detail": "",
+      "redirects": [
+        "https://lilygo.cc/collections/lora-or-gps"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/groups/14499139/",
+      "status": "blocked",
+      "code": 200,
+      "final": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F14499139%2F",
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "detail": "",
+      "redirects": [
+        "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F14499139%2F"
+      ]
+    },
+    {
+      "url": "https://www.lzmesh.com",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://lzmesh.com/",
+      "title": "LZMesh",
+      "detail": "",
+      "redirects": [
+        "https://lzmesh.com/"
+      ]
+    },
+    {
+      "url": "https://www.meshabout.fi/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.meshabout.fi/",
+      "title": "MeshAbout.fi",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.meshat.se/",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://meshat.se/",
+      "title": "Meshat.se - Meshat.se",
+      "detail": "",
+      "redirects": [
+        "https://meshat.se/"
+      ]
+    },
+    {
+      "url": "https://www.meshcanberra.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.meshcanberra.com/",
+      "title": "Canberra Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.meshgreece.org",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.meshgreece.org",
+      "title": "MeshGreece.org",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.meshnet.nl",
+      "status": "redirected",
+      "code": 200,
+      "final": "https://www.pizzeria-asya.nl/",
+      "title": "5 Euro Deposit Casino Zonder Cruks: Beste Casino's 2026 Nederland",
+      "detail": "",
+      "redirects": [
+        "https://www.pizzeria-asya.nl/"
+      ]
+    },
+    {
+      "url": "https://www.meshrheinland.de/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.meshrheinland.de/",
+      "title": "LoRa-Mesh-Community im Rheinland | Mesh Rheinland",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.mo-mesh.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.mo-mesh.com",
+      "title": "Show Me Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.on3mee.be/telecom/meshtastic.htm",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.on3mee.be/telecom/meshtastic.htm",
+      "title": "",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.reddit.com/r/Meshtastic_DMV_Users/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.reddit.com/r/Meshtastic_DMV_Users/",
+      "title": "Reddit",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.reddit.com/r/Meshtastic_Florida/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.reddit.com/r/Meshtastic_Florida/",
+      "title": "Reddit",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.reddit.com/r/VicMesh/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.reddit.com/r/VicMesh/",
+      "title": "Reddit",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.reddit.com/r/meshtastic/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.reddit.com/r/meshtastic/",
+      "title": "Reddit",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.reddit.com/r/meshtasticCanada/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.reddit.com/r/meshtasticCanada/",
+      "title": "Reddit",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.sacvalleymesh.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.sacvalleymesh.com/",
+      "title": "SacValleyMesh.com",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.scmesh.us/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.scmesh.us/",
+      "title": "South Carolina Mesh",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.seeedstudio.com",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.seeedstudio.com",
+      "title": "Seeed Studio Bazaar, The IoT Hardware enabler.",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.sodakmesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.sodakmesh.org/",
+      "title": "SoDak//\\esh.org",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.tindie.com/stores/neilhao/",
+      "status": "blocked",
+      "code": 403,
+      "final": "https://www.tindie.com/stores/neilhao/",
+      "title": "Just a moment...",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.upstatemesh.org/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.upstatemesh.org/",
+      "title": "",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.yetiwurks.com/product-category/communication/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.yetiwurks.com/product-category/communication/",
+      "title": "Communication Archives - Yeti Wurks",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.youtube.com/@Meshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.youtube.com/@Meshtastic",
+      "title": "Meshtastic - YouTube",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.youtube.com/@austinmesh",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.youtube.com/@austinmesh",
+      "title": "Austin Mesh - YouTube",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLshzThxhw4O5JTOACGHzYSSd3soDhoXKK",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.youtube.com/playlist?list=PLshzThxhw4O5JTOACGHzYSSd3soDhoXKK",
+      "title": "Getting Started with Meshtastic - YouTube",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2Wf6BcZS3AY",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.youtube.com/watch?v=2Wf6BcZS3AY",
+      "title": "MeshTIEstick: The Wearable LoRa Meshtastic Node - YouTube",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IoaoYbrdtlU",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.youtube.com/watch?v=IoaoYbrdtlU",
+      "title": "Meshtastic Quick-Start Video Guide (iOS) - YouTube",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P9G9hR3T4po",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.youtube.com/watch?v=P9G9hR3T4po",
+      "title": "What is Meshtastic and why should you care? - YouTube",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qjJIVBOWvfc&list=PLPK2l9Knytg6jzOfcqk5y0iBH48ZATVVD",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://www.youtube.com/watch?v=qjJIVBOWvfc&list=PLPK2l9Knytg6jzOfcqk5y0iBH48ZATVVD",
+      "title": "Use Meshtastic For Long-Range Communications in Your Project! - YouTube",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://x.com/TheMeshtastic",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://x.com/TheMeshtastic",
+      "title": "Meshtastic (@TheMeshtastic) / X",
+      "detail": "",
+      "redirects": []
+    },
+    {
+      "url": "https://yycmesh.com/",
+      "status": "reachable",
+      "code": 200,
+      "final": "https://yycmesh.com/",
+      "title": "YYCMesh \u2014 Calgary Meshtastic Community",
+      "detail": "",
+      "redirects": []
+    }
+  ]
+}
